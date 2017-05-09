@@ -1,0 +1,10 @@
+{
+  "name": "azure-cost-retriever",
+  "description": "Get costs from Microsoft Azure",
+  "dependencies": {
+    "underscore": "~1.8.3",
+    "async": "~2.1.4",
+    "yql": "~1.0.2",
+    "xmlbuilder": "~8.2.2"
+  }
+}
